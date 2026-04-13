@@ -1,0 +1,25 @@
+{
+  "name": "FundedNext Risk Manager",
+  "short_name": "FN Risk",
+  "description": "Stellar 1-Step risk calculator, margin tracker and trade log",
+  "start_url": "/fn-risk/index.html",
+  "scope": "/fn-risk/",
+  "display": "standalone",
+  "background_color": "#080B12",
+  "theme_color": "#080B12",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
